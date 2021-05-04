@@ -1,0 +1,22 @@
+Hi Ludwig
+
+I am reverse engineering a Bosch RCC A2 Headunit that maches the one in my vehicle. 
+I am currently looking at the USB firmware update process and stumbled accross your github site.
+
+I am wondering where did you get access to these firmware keys that can decrypt NAC devices? 
+
+
+I am currently looking for similar keys for RCC.
+I tried the chinese RCC updates you have but once unpacked they look more like the Continental NAC units firmware updates. 
+
+These are the files available for update for my ebay headunit
+https://majestic-web.mpsa.com/mjf00-web/rest/LicenseDownload?mediaVersion=005315191561559942&uin=2D075039001371908125
+https://majestic-web.mpsa.com/mjf00-web/rest/RangeUpdateDownload?updateId=005315191561559942&uin=2D075039001371908125&type=fw
+
+and this is the OSS of the current headunit firmware
+https://info-oss.groupe-psa.com/OSS/OSS_16.1B055.24.zip
+
+Kind Regards
+
+James
+james.t.downey@outlook.com
